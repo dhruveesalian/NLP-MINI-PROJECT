@@ -1,0 +1,7 @@
+Input Text,Predicted Category,Confidence (%)
+"Uncontrolled human surge at south tunnel exit, several fans fell and are being trampled against turnstiles!",Stampede / Crushing Hazard,35.27
+"Violent clash near food court, two factions throwing broken glass bottles and metal chairs at each other.",Violent Disorder / Brawl,49.35
+"Paramedics urgently needed at gate 9, spectator collapsed with severe heat exhaustion and no pulse.",Medical Emergency / Overheating,48.6
+"Thick black smoke and flames coming from faulty food stall generator, crowd screaming and running away.",Fire / Hazardous Smoke,36.32
+"Front metal barricade snapped in half and collapsed into pit, people fallen into ditch under pressure.",Structural Failure / Collapse,33.45
+"Spectators calmly queuing at ticket inspection counter, moving through gates smoothly without delay.",Normal Congestion / Safe Movement,38.4
